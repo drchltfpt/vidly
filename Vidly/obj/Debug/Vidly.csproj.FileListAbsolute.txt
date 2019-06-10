@@ -67,5 +67,9 @@ D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubcribedToCustomer.r
 D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
-D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipType.resources
 D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.AddTheAdditionalPropertiesToMovie.resources
+D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
