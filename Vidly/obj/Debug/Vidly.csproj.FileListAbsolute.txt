@@ -73,3 +73,46 @@ D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.res
 D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
 D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.AddTheAdditionalPropertiesToMovie.resources
 D:\dotNET\home\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\Vidly.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\Vidly.pdb
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\Antlr3.Runtime.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\EntityFramework.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\EntityFramework.SqlServer.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\Microsoft.Owin.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\Newtonsoft.Json.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Helpers.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Mvc.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Optimization.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Razor.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Webpages.Deployment.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Webpages.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Webpages.Razor.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\WebGrease.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\Antlr3.Runtime.pdb
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\EntityFramework.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\EntityFramework.SqlServer.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\Microsoft.Owin.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\Newtonsoft.Json.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Optimization.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Razor.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Webpages.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Webpages.Deployment.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Webpages.Razor.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Helpers.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\bin\System.Web.Mvc.xml
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubcribedToCustomer.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenre.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.AddTheAdditionalPropertiesToMovie.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.dll
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.pdb
+E:\ForWork\dotNET MVC\vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache

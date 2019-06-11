@@ -6,6 +6,9 @@
 
 <h2>Movies</h2>
 
+@Html.ActionLink("NEW BUTTON", "New", "Movies", routeValues: null, htmlAttributes: new { @class = "btn btn-primary", @role="button"})
+<br />
+<br />
 @if (!Model.Any())
 {
     <p>We don't have any customers yet.</p> 
@@ -23,7 +26,7 @@
         {
             <tr>
                 <td>
-                    @Html.ActionLink(movie.Name, "Details", "Movies", new { id = movie.Id }, null)
+                    @Html.ActionLink(movie.Name, "Edit", "Movies", new { id = movie.Id }, null)
                 </td>
                 <td>
                     @movie.Genre.Name
