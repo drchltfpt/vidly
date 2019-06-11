@@ -40,7 +40,6 @@ D:\dotNET\home\vidly\Vidly\bin\EntityFramework.SqlServer.dll
 D:\dotNET\home\vidly\Vidly\bin\Microsoft.Owin.dll
 D:\dotNET\home\vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
 D:\dotNET\home\vidly\Vidly\bin\Newtonsoft.Json.dll
-D:\dotNET\home\vidly\Vidly\bin\Owin.dll
 D:\dotNET\home\vidly\Vidly\bin\System.Web.Helpers.dll
 D:\dotNET\home\vidly\Vidly\bin\System.Web.Mvc.dll
 D:\dotNET\home\vidly\Vidly\bin\System.Web.Optimization.dll
